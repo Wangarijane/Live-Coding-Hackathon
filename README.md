@@ -1,4 +1,4 @@
-# VibeLoop
+# Loyalty Rewards App: VibeLoop
 
 A comprehensive loyalty rewards platform designed for local businesses like salons, barbershops, and eateries. Track customer visits, manage rewards, and boost customer retention with automated notifications.
 
